@@ -91,6 +91,11 @@ print("cumples el dia", dia, "del mes", mes, "del año", año)"""
 """Escribir un programa que pregunte por consola por los productos de una cesta de la compra, separados por comas, y muestre por pantalla cada uno de los 
 productos en una línea distinta."""
 
-productos = input("Digite los productos separados por comas ")
+"""productos = input("Digite los productos separados por comas ")
 
-print(productos.replace(',', '\n'))
+print(productos.replace(',', '\n'))"""
+
+#/////////////////////////////////////////////////////
+
+"""Escribir un programa que pregunte el nombre el un producto, su precio y un número de unidades y muestre por pantalla una cadena con el nombre del producto 
+seguido de su precio unitario con 6 dígitos enteros y 2 decimales, el número de unidades con tres dígitos y el coste total con 8 dígitos enteros y 2 decimales."""
